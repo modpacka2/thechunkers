@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "thechunkersmod:item/deepslate_raw_chunk_part"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "thechunkermod:chunk_block",
+    "thechunkermod:chunks_heart",
+    "thechunkermod:deepslate_chunks_heart"
+  ]
+}

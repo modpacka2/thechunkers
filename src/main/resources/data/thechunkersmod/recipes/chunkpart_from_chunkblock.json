@@ -1,0 +1,13 @@
+{
+"type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "thechunkersmod:chunk_block"
+    }
+  ],
+  "result": {
+    "item": "thechunkersmod:chunk_part",
+    "count": 9
+  }
+}

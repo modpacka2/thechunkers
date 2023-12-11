@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 1.4,
+  "group": "chunk_part",
+  "ingredient": {
+    "item": "thechunkersmod:raw_chunk_part"
+  },
+  "result": "thechunkersmod:chunk_part"
+}

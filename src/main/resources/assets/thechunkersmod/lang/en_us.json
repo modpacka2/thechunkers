@@ -1,3 +1,11 @@
 {
-  "item.thechunkersmod.chunk_part": "Chunk part"
+  "item.thechunkersmod.chunk_part": "Chunk part",
+  "item.thechunkersmod.raw_chunk_part": "Raw chunk part",
+  "item.thechunkersmod.deepslate_raw_chunk_part": "Raw deepslate chunk part",
+
+  "block.thechunkersmod.chunk_block": "Chunk block",
+  "block.thechunkersmod.chunks_heart": "Chunk's heart",
+  "block.thechunkersmod.deepslate_chunks_heart": "Deepslate chunk's heart",
+
+  "itemgroup.thechunkers": "TheChunkers"
 }
