@@ -2,6 +2,7 @@ package net.switchot.thechunkers;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.switchot.thechunkers.item.Moditems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +12,7 @@ public class TheChunkers implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+
+		Moditems.registerModItems();
 	}
 }
