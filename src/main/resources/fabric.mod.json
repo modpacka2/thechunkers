@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "thechunkersmod",
+	"version": "${version}",
+	"name": "TheChunkers",
+	"description": "This mod is a lore based mod the chunkers are a old civilization can you find the secret that they keep",
+	"authors": [
+		"Switchot"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/thechunkers/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.switchot.thechunkers.TheChunkers"
+		],
+		"client": [
+			"net.switchot.thechunkers.TheChunkersClient"
+		],
+		"fabric-datagen": [
+			"net.switchot.thechunkers.TheChunkersDataGenerator"
+		]
+	},
+	"mixins": [
+		"thechunkers.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.1",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
