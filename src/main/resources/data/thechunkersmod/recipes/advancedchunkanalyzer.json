@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:grass_block"
+    },
+    "b": {
+      "item": "thechunkersmod:chunk_part"
+    },
+    "c": {
+      "item": "thechunkersmod:chunk_analyzer"
+    },
+    "d": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "thechunkersmod:advanced_chunk_analyzer"
+  }
+}

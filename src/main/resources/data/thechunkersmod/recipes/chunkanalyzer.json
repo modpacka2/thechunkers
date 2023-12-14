@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  b",
+    " c ",
+    "d  "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:grass_block"
+    },
+    "c": {
+      "item": "thechunkersmod:chunk_part"
+    },
+    "d": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "thechunkersmod:chunk_analyzer"
+  }
+}

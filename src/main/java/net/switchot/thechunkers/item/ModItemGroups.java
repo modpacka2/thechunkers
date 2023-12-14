@@ -17,11 +17,13 @@ public class ModItemGroups {
 entries.add(Moditems.CHUNK_PART);
 entries.add(Moditems.RAW_CHUNK_PART);
 entries.add(Moditems.DEEPSLATE_RAW_CHUNK_PART);
+entries.add(Moditems.CHUNK_ANALYZER);
 
 
 entries.add(ModBlocks.CHUNK_BLOCK);
 entries.add(ModBlocks.CHUNKS_HEART);
 entries.add(ModBlocks.DEEPSLATE_CHUNKS_HEART);
+entries.add(ModBlocks.ADVANCED_CHUNK_ANALYZER);
             }).build());
 
     public static void registerItemGroups(){

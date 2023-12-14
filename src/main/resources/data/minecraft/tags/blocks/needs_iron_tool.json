@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "thechunkermod:chunks_heart",
-    "thechunkermod:deepslate_chunks_heart"
+    "thechunkersmod:chunks_heart",
+    "thechunkersmod:deepslate_chunks_heart"
   ]
 }

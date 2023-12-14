@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/smooth_stone",
+    "east": "thechunkersmod:block/advanced_chunk_analyzer_side",
+    "north": "thechunkersmod:block/advanced_chunk_analyzer_side",
+    "particle": "thechunkersmod:block/advanced_chunk_analyzer_side",
+    "south": "thechunkersmod:block/advanced_chunk_analyzer_side",
+    "up": "thechunkersmod:block/chunk_block",
+    "west": "thechunkersmod:block/advanced_chunk_analyzer_side"
+  }
+}
